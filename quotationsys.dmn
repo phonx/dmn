@@ -13,7 +13,7 @@
     <dmn:itemComponent id="_EE7484DB-6836-42EB-9C50-C0554994C099" name="Age" isCollection="false">
       <dmn:typeRef>number</dmn:typeRef>
     </dmn:itemComponent>
-    <dmn:itemComponent id="_EA9BB1D3-9D87-4053-ADFD-098623B1A86A" name="parkoffsite" isCollection="false">
+    <dmn:itemComponent id="_EA9BB1D3-9D87-4053-ADFD-098623B1A86A" name="storage" isCollection="false">
       <dmn:typeRef>boolean</dmn:typeRef>
     </dmn:itemComponent>
     <dmn:itemComponent id="_C0558DC7-7610-4C18-8AE9-F1EB16EB3945" name="driveexperience" isCollection="false">
@@ -38,7 +38,7 @@
       <dmn:typeRef>number</dmn:typeRef>
     </dmn:itemComponent>
     <dmn:itemComponent id="_FCC8F9E0-F170-4E28-93D1-022C431E3ECC" name="carmodification" isCollection="false">
-      <dmn:typeRef>string</dmn:typeRef>
+      <dmn:typeRef>boolean</dmn:typeRef>
     </dmn:itemComponent>
   </dmn:itemDefinition>
   <dmn:inputData id="_2A927EE8-0FCC-4511-975A-D1A2AF4755AD" name="age">
